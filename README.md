@@ -5,7 +5,7 @@
 
 ### Objectives
 #### .Learn how to use SQL for data analysis tasks such as aggregation, filtering, and ranking.
-Understand how to calculate and manipulate data in a real-world dataset.
+#### Understand how to calculate and manipulate data in a real-world dataset.
 #### .Gain hands-on experience with SQL functions like COUNT, SUM, AVG, EXTRACT(), and DENSE_RANK().
 #### .Develop skills for performance analysis using SQL by solving different types of data problems related to user performance.
 ### Project Level: Beginner
